@@ -1,0 +1,22 @@
+header {
+    width: 100%;
+    background-color: lightblue;
+  }
+  li {
+    list-style-type: none;
+    font-size: 40px;
+    display: inline;
+  }
+  #github {
+    background-color: lightyellow;
+    display: inline;
+  }
+  
+  #portfolio {
+    background-color: lightyellow;
+    display: inline;
+  }
+  
+  #contact {
+    background-color: lightyellow;
+  }
