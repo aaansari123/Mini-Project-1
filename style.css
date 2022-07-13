@@ -1,0 +1,7 @@
+.middle {
+    display: block;
+    padding: 20px;
+    background-color: yellowgreen;
+    border: 20px solid green;
+    margin: 20px
+}
